@@ -11,10 +11,13 @@ $(document).ready(function() {
       }else {
         document.getElementById('myComment').innerHTML = 'POOR. RETAKE THE TEST';
       }
-      });
+    });
 
-      function clearInputs(){
-        $('#results form').trigger('reset');
-        document.getElementById('myComment').innerHTML = '';
-      }
-      });
+
+  });
+
+
+  function clearInputs(){
+    $('#results form').trigger('reset');
+    document.getElementById('myComment').innerHTML = '';
+  }
