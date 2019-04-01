@@ -7,9 +7,11 @@ $(document).ready(function() {
       const scorePercent = parseFloat(score/5*100);
       if(scorePercent >= 80 ) {
         document.getElementById('myComment').innerHTML = 'EXCELLENT!!';
-      } else if(scorePercent <80 && scorePercent >= 50 ) {
+      }
+      else if(scorePercent <80 && scorePercent >= 50 ) {
         document.getElementById('myComment').innerHTML = 'FAIR';
-      }else {
+      }
+      else {
         document.getElementById('myComment').innerHTML = 'POOR. RETAKE THE TEST';
       }
     });
