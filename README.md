@@ -18,6 +18,8 @@ TECHNICAL REQUIREMENTS
 5. The business logic and UI logic of the code should be separated.
 6. The project code should be consistently indented & follows proper syntax which includes camelcase and appropriate naming of variables.
 
+
+
 Built With
 jQuery - The JS library used
 
