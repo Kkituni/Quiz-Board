@@ -24,12 +24,16 @@ jQuery - The JS library used
 
 CSS & Bootstrap - Used to control presentation, formatting, and layout 
 
+
 Author
+
 Kelvin Kituni
 
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments
+
 w3schools.com
