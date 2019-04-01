@@ -2,6 +2,8 @@
 A website on which students can take the test on a course of Javascript for a high school. Students will answer the multiple choice questions on the website, and after submitting their answers, they know what they scored on the website.
 
 BDD
+
+
 PROJECT OBJECTIVES
 1. The project uses two or more jQuery functions.
 2. The project uses two or more javascript functions.
@@ -18,6 +20,8 @@ TECHNICAL REQUIREMENTS
 
 Built With
 jQuery - The JS library used
+
+
 CSS & Bootstrap - Used to control presentation, formatting, and layout 
 
 Author
