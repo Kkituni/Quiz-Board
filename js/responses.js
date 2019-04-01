@@ -19,7 +19,6 @@ $(document).ready(function() {
 
   });
 
-
   function clearInputs(){
     $('#results form').trigger('reset');
     document.getElementById('myComment').innerHTML = '';
